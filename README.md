@@ -2,7 +2,7 @@
 
 [Click here to view my Projects Portfolio ](https://www.datascienceportfol.io/prabhjotkaur12345)
 
-Please view my all projects/reports related to Data analysis:
+Please view my all projects/reports related to Data analysis at one place:
 
 Using Visualization tool- Power BI, 
 SQL Projects using MSSQL Server,
